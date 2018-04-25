@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraMov">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAIAAAABAAAAAJAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\CameraMov.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Colliders">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAABAAAgAABAIAQAAAAAAAAAAAAIAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\Colliders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOver">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgEAAAABAAAAAAAAAAAAAIBAAAAQAIAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthUi">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgCCAAACAAAQAAIAAAAQAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\HealthUi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadQuestion">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQBAAAAECQCAAAAAIQAQIAAAABGCBAEIQQBAgEAEAM=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\LoadQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerCollision">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gA1AgAAIAAAAQAAAQAAAAAAAQEAgAQAIMQggAAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\playerCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovment">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\PlayerMovment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomLetters">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAgAAgMAAIAACAAAIEAAEAAAADIMAhAAAAgBEM=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\RandomLetters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadFromCsv">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAACAAAAAAAAAAAAAAAAAAAAAEQBAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\ReadFromCsv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingAge">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAAAAAIAEQAAAAAAAAQAAEACAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\SpellingAge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spellingDialogueTrigger">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\spellingDialogueTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spellingStory">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAiACAAQBSAAAAgAAAAAQAAAAABYQBAEAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellingScripts\spellingStory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
